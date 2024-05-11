@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .button{
+    padding: 20px;
+    margin: 0 2px;
+    border: 2px solid white;
+    border-radius: 9px;
+    cursor:pointer;
+  }
+  .row{
+    margin: 6px;
+  }
+  .row input{
+    margin: 0;
+    padding:9px 31px;
+    border-radius: 4px;
+  }
+  .text-center {
+    text-align: center;
+  }
+  
+  .bg-black {
+    background: black;
+    border-radius: 10px;
+    height:350px;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .m-w-20 {
+    max-width: 20vw;
+    max-height: 40vw;
+  }
+  
+  .item-center {
+    align-items: center;
+  }
+  
+  .row input {
+    margin-top: 23px;
+  }
